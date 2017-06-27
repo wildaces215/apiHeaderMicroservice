@@ -1,0 +1,22 @@
+{
+  "name": "headerapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig R. Albertson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildaces215/apiHeaderMicroservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wildaces215/apiHeaderMicroservice/issues"
+  },
+  "homepage": "https://github.com/wildaces215/apiHeaderMicroservice#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
