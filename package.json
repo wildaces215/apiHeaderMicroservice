@@ -17,6 +17,12 @@
   "homepage": "https://github.com/wildaces215/apiHeaderMicroservice#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.15.3"
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-request-language": "^1.1.11",
+    "ip": "^1.1.5",
+    "ipware": "^1.0.0",
+    "os": "^0.1.1",
+    "request-ip": "^2.0.2"
   }
 }
